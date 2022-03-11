@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with [AyeCode](https://ayecode.io)
+- 🔭 10+ years experience building WordPress plugins
 - 🌱 I’m currently learning React & AI
 - 💬 Ask me about WordPress plugins
 - 📫 How to reach me: picocodes at gmail.com
