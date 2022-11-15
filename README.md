@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 10+ years experience building WordPress plugins
-- 🌱 I’m currently learning React & AI
+- 🔭 Been building WordPress plugins since 2011 (I was 13 years old)
+- 🌱 React.JS expert
 - 💬 Ask me about WordPress plugins
-- 📫 How to reach me: picocodes at gmail.com
+- 💻 Bootstrapping Noptin.com
+- ⚡ Available for part-time freelance work
+- 📫 How to reach me: brian at noptin.com
 
 ## Stats :godmode:
 <a href="https://github.com/picocodes/">
