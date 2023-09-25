@@ -4,7 +4,7 @@
 - 🌱 React.JS expert
 - 💬 Ask me about WordPress plugins
 - 💻 Bootstrapping Noptin.com
-- ⚡ Available for part-time freelance work
+- ⚡ No longer available for part-time freelance work, but can refer
 - 📫 How to reach me: brian at noptin.com
 
 ## Stats :godmode:
@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/picocodes/">
-  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=picocodes&langs_count=3&count_private=true" />
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=picocodes&langs_count=5&count_private=true" />
 </a>
