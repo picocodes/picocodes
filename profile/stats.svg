@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">picocodes&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1072, Total PRs: 187, Total Issues: 258, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1063, Total PRs: 187, Total Issues: 258, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.61455221749904;
+        stroke-dashoffset: 63.66873106433604;
       }
     }
   
